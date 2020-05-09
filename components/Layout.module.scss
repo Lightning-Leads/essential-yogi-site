@@ -1,0 +1,29 @@
+.flexBrand {
+  display: flex !important;
+  align-items: flex-end;
+  justify-content: center;
+  flex-wrap: nowrap;
+
+  .brandTextContainer {
+    margin-left: 8px;
+
+    .brandTitle,
+    .brandSubtitle {
+      font-weight: 300;
+    }
+
+    .brandTitle {
+      font-size: 16px;
+      margin-bottom: 4px;
+    }
+
+    .brandSubtitle {
+      margin-top: 0;
+      font-size: 12px;
+    }
+  }
+}
+
+.body {
+  margin-top: 95px;
+}
