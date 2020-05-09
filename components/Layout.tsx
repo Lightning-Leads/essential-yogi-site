@@ -57,7 +57,7 @@ export default function Layout({ children }) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Navbar expand="lg" fixed="top" className={styles.navbar}>
+      <Navbar expand="lg" className={styles.navbar}>
         <Container>
           <Navbar.Brand href="#home" className={styles.flexBrand}>
             <img
