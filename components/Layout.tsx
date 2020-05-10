@@ -59,7 +59,7 @@ export default function Layout({ children }) {
 
       <Navbar expand="lg" className={styles.navbar}>
         <Container>
-          <Navbar.Brand href="#home" className={styles.flexBrand}>
+          <Navbar.Brand href="/" className={styles.flexBrand}>
             <img
               src="/logo.png"
               width="69"
