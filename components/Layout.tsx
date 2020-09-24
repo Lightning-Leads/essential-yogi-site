@@ -12,25 +12,20 @@ const links = [
     label: "Which Are Right for Me?",
   },
   {
-    id: "essential-oil-education",
-    label: "Learn",
-  },
-  {
     id: "start-here",
     label: "Get Started",
   },
   {
+    id: "essential-oil-education",
+    label: "Blog Articles",
+  },
+  {
     id: "build-your-essential-oil-business",
-    label: "Abundance",
+    label: "Work with Me",
   },
   {
     id: "free-resources",
-    label: "Resources",
-  },
-
-  {
-    id: "about-essential-yogi",
-    label: "About",
+    label: "Free Resources",
   },
 ];
 
